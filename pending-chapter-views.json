@@ -1,22 +1,45 @@
 {
-  "chapters": {},
-  "lastUpdated": "2025-10-24T00:00:00.000Z"
+  "chapters": {
+    "1": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:07:03.791Z",
+      "lastUpdate": "2025-10-23T18:07:03.791Z"
+    },
+    "2": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:07:03.791Z",
+      "lastUpdate": "2025-10-23T18:07:03.791Z"
+    },
+    "3": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:07:03.791Z",
+      "lastUpdate": "2025-10-23T18:07:03.791Z"
+    },
+    "4": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:07:03.791Z",
+      "lastUpdate": "2025-10-23T18:07:03.791Z"
+    },
+    "5.1": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:07:03.791Z",
+      "lastUpdate": "2025-10-23T18:07:03.791Z"
+    },
+    "5.2": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:07:03.791Z",
+      "lastUpdate": "2025-10-23T18:07:03.791Z"
+    },
+    "5.5": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:07:03.791Z",
+      "lastUpdate": "2025-10-23T18:07:03.791Z"
+    },
+    "6.1": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:07:03.791Z",
+      "lastUpdate": "2025-10-23T18:07:03.791Z"
+    }
+  },
+  "lastUpdated": "2025-10-23T18:07:03.791Z"
 }
-```
-
-**Note:** Ganti timestamp dengan waktu sekarang atau biarkan saja (akan diupdate otomatis nanti).
-
----
-
-## ⚠️ **Error yang Akan Muncul Jika Tidak Ada**
-
-Jika pending files tidak dibuat, GitHub Actions akan error:
-```
-❌ Error updating views: Error: ENOENT: no such file or directory, 
-   open 'pending-views.json'
-```
-
-Atau:
-```
-❌ Error updating chapter views: Error: ENOENT: no such file or directory, 
-   open 'pending-chapter-views.json'
