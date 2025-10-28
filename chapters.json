@@ -2,35 +2,81 @@
   "chapters": [
     {
       "title": "Chapter 6.1",
+      "folder": "6.1",
+      "pages": 0,
+      "views": 0,
+      "uploadDate": "2025-10-26",
       "locked": true
     },
     {
-      "title": "Chapter 5.5",
-      "locked": false
-    },
-    {
-      "title": "Chapter 5.2",
-      "locked": false
-    },
-    {
-      "title": "Chapter 5.1",
-      "locked": false
-    },
-    {
-      "title": "Chapter 4",
-      "locked": false
-    },
-    {
-      "title": "Chapter 3",
-      "locked": false
+      "title": "Chapter 1",
+      "chapter": 1.0,
+      "folder": "1",
+      "uploadDate": "2025-10-26",
+      "totalPages": 38,
+      "pages": 38,
+      "locked": false,
+      "views": 0
     },
     {
       "title": "Chapter 2",
-      "locked": false
+      "chapter": 2.0,
+      "folder": "2",
+      "uploadDate": "2025-10-26",
+      "totalPages": 26,
+      "pages": 26,
+      "locked": false,
+      "views": 0
     },
     {
-      "title": "Chapter 1",
-      "locked": false
+      "title": "Chapter 3",
+      "chapter": 3.0,
+      "folder": "3",
+      "uploadDate": "2025-10-26",
+      "totalPages": 23,
+      "pages": 23,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 4",
+      "chapter": 4.0,
+      "folder": "4",
+      "uploadDate": "2025-10-26",
+      "totalPages": 25,
+      "pages": 25,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 5.1",
+      "chapter": 5.1,
+      "folder": "5.1",
+      "uploadDate": "2025-10-26",
+      "totalPages": 12,
+      "pages": 12,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 5.2",
+      "chapter": 5.2,
+      "folder": "5.2",
+      "uploadDate": "2025-10-26",
+      "totalPages": 14,
+      "pages": 14,
+      "locked": false,
+      "views": 0
+    },
+    {
+      "title": "Chapter 5.5",
+      "chapter": 5.5,
+      "folder": "5.5",
+      "uploadDate": "2025-10-26",
+      "totalPages": 5,
+      "pages": 5,
+      "locked": false,
+      "views": 0
     }
   ]
 }
