@@ -1,54 +1,54 @@
 {
   "chapters": {
     "1": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-16T22:45:34.638Z",
-      "lastUpdate": "2025-11-16T18:39:07+07:00"
+      "lastUpdate": "2025-11-17T09:17:00+07:00"
     },
     "2": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-16T22:46:40.126Z",
-      "lastUpdate": "2025-11-12T09:15:01+07:00"
+      "lastUpdate": "2025-11-17T09:17:00+07:00"
     },
     "3": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-16T22:48:14.925Z",
-      "lastUpdate": "2025-11-10T09:20:10+07:00"
+      "lastUpdate": "2025-11-17T09:17:00+07:00"
     },
     "4": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-16T22:49:08.109Z",
-      "lastUpdate": "2025-11-09T09:18:27+07:00"
+      "lastUpdate": "2025-11-17T09:17:00+07:00"
     },
     "5.1": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-16T22:49:28.201Z",
-      "lastUpdate": "2025-11-12T09:15:01+07:00"
+      "lastUpdate": "2025-11-17T09:17:00+07:00"
     },
     "5.2": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-16T22:49:46.450Z",
-      "lastUpdate": "2025-11-12T09:15:01+07:00"
+      "lastUpdate": "2025-11-17T09:17:00+07:00"
     },
     "5.5": {
-      "pendingViews": 3,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-16T22:49:56.948Z",
-      "lastUpdate": "2025-11-16T09:21:48+07:00"
+      "lastUpdate": "2025-11-17T09:17:00+07:00"
     },
     "6.1": {
-      "pendingViews": 15,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-16T22:50:04.066Z",
-      "lastUpdate": "2025-11-16T18:39:07+07:00"
+      "lastUpdate": "2025-11-17T09:17:00+07:00"
     },
     "6.2": {
-      "pendingViews": 26,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-17T00:17:36.522Z",
-      "lastUpdate": "2025-11-08T09:02:03+07:00"
+      "lastUpdate": "2025-11-17T09:17:00+07:00"
     },
     "fac1e7b7-f1fd-40bc-842c-99b0ca325946": {
       "pendingViews": 1,
       "lastIncrement": "2025-11-16T11:55:11.673Z"
     }
   },
-  "lastUpdated": "2025-11-16T20:32:46+07:00"
+  "lastUpdated": "2025-11-17T09:17:00+07:00"
 }
