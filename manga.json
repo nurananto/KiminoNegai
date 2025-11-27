@@ -32,8 +32,8 @@
       "chapter": 1,
       "folder": "1",
       "uploadDate": "2025-10-16T04:34:34+07:00",
-      "totalPages": 38,
-      "pages": 38,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 71
     },
@@ -42,8 +42,8 @@
       "chapter": 2,
       "folder": "2",
       "uploadDate": "2025-10-16T04:34:34+07:00",
-      "totalPages": 26,
-      "pages": 26,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 40
     },
@@ -52,8 +52,8 @@
       "chapter": 3,
       "folder": "3",
       "uploadDate": "2025-10-16T04:34:34+07:00",
-      "totalPages": 23,
-      "pages": 23,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 41
     },
@@ -62,8 +62,8 @@
       "chapter": 4,
       "folder": "4",
       "uploadDate": "2025-10-16T04:34:34+07:00",
-      "totalPages": 25,
-      "pages": 25,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 38
     },
@@ -72,8 +72,8 @@
       "chapter": 5.1,
       "folder": "5.1",
       "uploadDate": "2025-10-16T04:34:34+07:00",
-      "totalPages": 12,
-      "pages": 12,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 45
     },
@@ -82,8 +82,8 @@
       "chapter": 5.2,
       "folder": "5.2",
       "uploadDate": "2025-10-16T04:34:34+07:00",
-      "totalPages": 14,
-      "pages": 14,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 44
     },
@@ -92,8 +92,8 @@
       "chapter": 5.5,
       "folder": "5.5",
       "uploadDate": "2025-10-16T04:34:34+07:00",
-      "totalPages": 5,
-      "pages": 5,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 76
     },
@@ -102,8 +102,8 @@
       "chapter": 6.1,
       "folder": "6.1",
       "uploadDate": "2025-11-01T10:29:24+07:00",
-      "totalPages": 11,
-      "pages": 11,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 160
     },
@@ -112,12 +112,12 @@
       "chapter": 6.2,
       "folder": "6.2",
       "uploadDate": "2025-11-16T20:32:19+07:00",
-      "totalPages": 16,
-      "pages": 16,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 93
     }
   },
-  "lastUpdated": "2025-11-26T09:17:17+07:00",
+  "lastUpdated": "2025-11-27T00:17:13+07:00",
   "lastChapterUpdate": "2025-11-16T20:32:19+07:00"
 }
