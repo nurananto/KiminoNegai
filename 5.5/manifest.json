@@ -3,10 +3,12 @@
   "upload_date": "2025-11-27 23:06:34",
   "total_pages": 5,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/KiminoNegai/5.5/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/KiminoNegai/5.5/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/KiminoNegai/5.5/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/KiminoNegai/5.5/Image04.webp",
-    "https://cdn.nuranantoscans.my.id/KiminoNegai/5.5/Image05.webp"
-  ]
+    "abd42031f8030bb7f62e389726832d25:fdc8476bc2732e25684d21bea69c0f61f213edd68c1691f183851c26b114090b747516a1183586f60aa6a4ba7e883dc4ab0b6ff1b3af74ae649c0eca8fd2a088",
+    "bb8c032fc9afe6661edf8ccbb7db78ea:b4198b3bb66466530e7c6e569e55a9f3a1f402aa682f6b20d19a6548cd0380a939c5fd15a6f2fdf012b44a344cb2028d22d48145c40d6749d68399f9fde25d0a",
+    "c87ebbc2bdd81a4f06d67317afa38074:77e87921783efa8297e664650801eef0d3223bc629d2234e0e35f2ecec15af70ce378fd7b85513b564e0577304125223142e5868edb48c1bc8b98c9af8dc3eba",
+    "a5f92337c4e81c8605c90380b8e24bec:eb361025acd9a9b32a8416bbb88212635d2584ef838a414c87f65ae3fde858e362c0122ef459072f04bb71d90dc87d8b2074a171b0867c1873a199142d9d5d23",
+    "cbc5709f6aa98af66a4435f885299a10:d341b4af91fa23eece4e975b60cc16ef6824e72a0f8dc4f211039e9076e739fd6e86e414c571e367299410d2ca5f2844e80059f68f2692886333bd192b3d57be"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
