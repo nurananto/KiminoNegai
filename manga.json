@@ -15,7 +15,7 @@
       "School Life",
       "Slice of Life"
     ],
-    "status": "Ongoing",
+    "status": "ONGOING",
     "views": 110,
     "links": {
       "mangadex": "https://mangadex.org/title/90d81edd-accb-4c8d-b44c-e38254d77935/kimi-no-negai-ga-kanau-made",
@@ -24,7 +24,8 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/KiminoNegai/main/",
     "imagePrefix": "Image",
     "imageFormat": "webp",
-    "lockedChapters": []
+    "lockedChapters": [],
+    "type": "manga"
   },
   "chapters": {
     "1": {
@@ -66,6 +67,16 @@
       "pages": 25,
       "locked": false,
       "views": 7
+    },
+    "7": {
+      "title": "Chapter 7",
+      "chapter": 7,
+      "folder": "7",
+      "uploadDate": "2025-12-07T13:24:23+07:00",
+      "totalPages": 24,
+      "pages": 24,
+      "locked": false,
+      "views": 0
     },
     "5.1": {
       "title": "Chapter 5.1",
@@ -118,6 +129,6 @@
       "views": 54
     }
   },
-  "lastUpdated": "2025-12-07T00:15:13+07:00",
-  "lastChapterUpdate": "2025-11-27T23:08:48+07:00"
+  "lastUpdated": "2025-12-07T13:24:23+07:00",
+  "lastChapterUpdate": "2025-12-07T13:24:23+07:00"
 }
