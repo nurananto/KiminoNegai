@@ -16,7 +16,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 372,
+    "views": 381,
     "links": {
       "mangadex": "https://mangadex.org/title/90d81edd-accb-4c8d-b44c-e38254d77935/kimi-no-negai-ga-kanau-made",
       "raw": "https://comic-walker.com/detail/KC_006693_S"
@@ -36,7 +36,7 @@
       "totalPages": 38,
       "pages": 38,
       "locked": false,
-      "views": 78
+      "views": 80
     },
     "2": {
       "title": "Chapter 2",
@@ -46,7 +46,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 26
+      "views": 27
     },
     "3": {
       "title": "Chapter 3",
@@ -56,7 +56,7 @@
       "totalPages": 23,
       "pages": 23,
       "locked": false,
-      "views": 22
+      "views": 23
     },
     "4": {
       "title": "Chapter 4",
@@ -66,7 +66,7 @@
       "totalPages": 25,
       "pages": 25,
       "locked": false,
-      "views": 31
+      "views": 32
     },
     "7": {
       "title": "Chapter 7",
@@ -76,7 +76,7 @@
       "totalPages": 24,
       "pages": 24,
       "locked": false,
-      "views": 124
+      "views": 131
     },
     "5.1": {
       "title": "Chapter 5.1",
@@ -86,7 +86,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 26
+      "views": 27
     },
     "5.2": {
       "title": "Chapter 5.2",
@@ -96,7 +96,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 28
+      "views": 29
     },
     "5.5": {
       "title": "Chapter 5.5",
@@ -106,7 +106,7 @@
       "totalPages": 5,
       "pages": 5,
       "locked": false,
-      "views": 30
+      "views": 31
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -116,7 +116,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 47
+      "views": 48
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -126,9 +126,9 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 95
+      "views": 96
     }
   },
-  "lastUpdated": "2025-12-18T00:22:19+07:00",
+  "lastUpdated": "2025-12-19T00:21:40+07:00",
   "lastChapterUpdate": "2025-12-07T13:23:29+07:00"
 }
