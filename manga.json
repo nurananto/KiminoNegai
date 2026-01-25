@@ -16,7 +16,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 880,
+    "views": 886,
     "links": {
       "mangadex": "https://mangadex.org/title/90d81edd-accb-4c8d-b44c-e38254d77935/kimi-no-negai-ga-kanau-made",
       "raw": "https://comic-walker.com/detail/KC_006693_S"
@@ -76,7 +76,7 @@
       "totalPages": 24,
       "pages": 24,
       "locked": false,
-      "views": 219
+      "views": 220
     },
     "8": {
       "title": "Chapter 8",
@@ -86,7 +86,7 @@
       "totalPages": 24,
       "pages": 24,
       "locked": false,
-      "views": 137
+      "views": 141
     },
     "5.1": {
       "title": "Chapter 5.1",
@@ -139,6 +139,6 @@
       "views": 131
     }
   },
-  "lastUpdated": "2026-01-25T00:16:23+07:00",
+  "lastUpdated": "2026-01-26T00:16:26+07:00",
   "lastChapterUpdate": "2025-12-28T23:05:18+07:00"
 }
