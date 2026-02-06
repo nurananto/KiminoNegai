@@ -16,7 +16,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 1102,
+    "views": 1118,
     "links": {
       "mangadex": "https://mangadex.org/title/90d81edd-accb-4c8d-b44c-e38254d77935/kimi-no-negai-ga-kanau-made",
       "raw": "https://comic-walker.com/detail/KC_006693_S"
@@ -36,7 +36,7 @@
       "totalPages": 38,
       "pages": 38,
       "locked": false,
-      "views": 186
+      "views": 194
     },
     "2": {
       "title": "Chapter 2",
@@ -46,7 +46,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 75
+      "views": 76
     },
     "3": {
       "title": "Chapter 3",
@@ -56,7 +56,7 @@
       "totalPages": 23,
       "pages": 23,
       "locked": false,
-      "views": 55
+      "views": 56
     },
     "4": {
       "title": "Chapter 4",
@@ -66,7 +66,7 @@
       "totalPages": 25,
       "pages": 25,
       "locked": false,
-      "views": 93
+      "views": 94
     },
     "7": {
       "title": "Chapter 7",
@@ -76,7 +76,7 @@
       "totalPages": 24,
       "pages": 24,
       "locked": false,
-      "views": 237
+      "views": 238
     },
     "8": {
       "title": "Chapter 8",
@@ -86,7 +86,7 @@
       "totalPages": 24,
       "pages": 24,
       "locked": false,
-      "views": 177
+      "views": 181
     },
     "9": {
       "title": "Chapter 9",
@@ -96,7 +96,7 @@
       "totalPages": 24,
       "pages": 24,
       "locked": false,
-      "views": 144
+      "views": 152
     },
     "5.1": {
       "title": "Chapter 5.1",
@@ -106,7 +106,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 58
+      "views": 59
     },
     "5.2": {
       "title": "Chapter 5.2",
@@ -116,7 +116,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 58
+      "views": 59
     },
     "5.5": {
       "title": "Chapter 5.5",
@@ -126,7 +126,7 @@
       "totalPages": 5,
       "pages": 5,
       "locked": false,
-      "views": 60
+      "views": 61
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -136,7 +136,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 80
+      "views": 81
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -146,9 +146,9 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 147
+      "views": 148
     }
   },
-  "lastUpdated": "2026-02-06T00:45:24+07:00",
+  "lastUpdated": "2026-02-07T00:40:06+07:00",
   "lastChapterUpdate": "2026-01-30T20:02:41+07:00"
 }
