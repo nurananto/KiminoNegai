@@ -12,9 +12,7 @@
 | Judul Alternatif | きみの願いが叶うまで |
 | Author | Asazuki Norito |
 | Tipe | Manga (Hitam Putih) |
-| Status | Ongoing |
 | Genre | Seinen · Gender Bender · Drama · Comedy · Romance · School Life · Slice of Life |
-| Chapter | 12 chapter |
 
 ## Link
 
